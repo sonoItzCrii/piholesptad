@@ -3,4 +3,4 @@ Pi-Hole list to completely block Spotify ads/videos cdn. Useful at march 2025 da
 
 # CREDITS
 https://github.com/Isaaker/Spotify-AdsList; 
-https://github.com/Jigsaw88/Spotify-Ad-List;
+https://github.com/Jigsaw88/Spotify-Ad-List.
